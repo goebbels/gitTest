@@ -1,4 +1,3 @@
 gitTest
 =======
-sasasas
-Test gits sync branch features
+Version 2 in master
